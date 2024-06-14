@@ -1,0 +1,1 @@
+# Kate-External-Tools-Configs
